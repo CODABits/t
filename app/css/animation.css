@@ -1,0 +1,8 @@
+.imagen-interactiva {
+    transition: transform 0.3s ease-in-out;
+}
+
+.imagen-interactiva:hover {
+    transform: scale(1.1); /* Ejemplo: agranda la imagen al pasar el cursor sobre ella */
+}
+
